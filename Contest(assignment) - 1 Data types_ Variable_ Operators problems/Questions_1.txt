@@ -1,0 +1,58 @@
+Contest(assignment) - 1: Data types, Variable, Operators problems 
+
+•
+
+1) Problem:  https://www.codechef.com/problems/PHONEYR
+
+2) Problem:  https://acm.timus.ru/problem.aspx?space=1&num=1000
+
+3) Problem:  https://www.codechef.com/problems/DOUBLERENT
+
+
+4) Problem:  https://www.codechef.com/problems/CLEARDAY
+
+5) Problem:  https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_A
+
+6) Problem:  https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_B
+
+
+7) Problem:  https://atcoder.jp/contests/abc235/tasks/abc235_a?lang=en
+
+
+8) Problem:  https://atcoder.jp/contests/abc302/tasks/abc302_a?lang=en
+
+
+9) Problem:  https://atcoder.jp/contests/abc283/tasks/abc283_a?lang=en
+
+
+10) Problem:  https://www.codechef.com/problems/OFFBY1
+
+
+11) Problem:  https://www.codechef.com/problems/RIP2000
+
+
+12) Problem:  https://www.codechef.com/problems/FOODCOST
+
+
+13) Problem:  https://www.codechef.com/problems/BNE_APT
+
+
+14) Problem:  https://www.codechef.com/problems/CCLEARN
+
+
+15) Problem:   https://www.codechef.com/problems/NUGGET
+
+
+16) Problem: https://www.codechef.com/problems/SWEETSHOP
+
+
+17) Problem: https://www.codechef.com/problems/DEVDON
+
+
+18) Problem:  https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_C
+
+
+19) Problem:  https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_B
+
+
+20) Problem:  https://atcoder.jp/contests/abc320/tasks/abc320_a?lang=en
