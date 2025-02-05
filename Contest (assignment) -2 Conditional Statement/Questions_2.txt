@@ -1,0 +1,49 @@
+Contest - 2: If-Else Vjudge Problems
+
+
+1. Problem: https://www.codechef.com/problems/THALA7
+
+
+2. Problem: https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_2_A
+
+
+3. Problem: https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_2_B
+
+4. Problem: https://www.codechef.com/problems/ERROR404
+
+
+5. Problem: https://atcoder.jp/contests/abc326/tasks/abc326_a
+
+
+6. Problem: https://www.codechef.com/problems/MINWAGE
+
+7. Problem: https://www.codechef.com/problems/SPCP1
+
+
+8. Problem: https://www.codechef.com/problems/CWC23QUALIF
+
+
+9. Problem: https://www.codechef.com/problems/CPRIVAL
+
+
+10. Problem: https://www.codechef.com/problems/FIZZBUZZ2301
+
+11. Problem: https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_2_C
+
+12. Problem: https://www.codechef.com/problems/OCTATHON
+
+13. Problem: https://www.codechef.com/problems/NEWSPAPER
+
+14. Problem: https://www.codechef.com/problems/AIRINDEX
+
+15. Problem: https://www.codechef.com/problems/NEWCC
+
+16. Problem: https://www.codechef.com/problems/PUZHUNT
+
+17. Problem: https://www.codechef.com/problems/MVR
+
+18. Problem: https://www.codechef.com/problems/ONEFULPAIRS
+
+19. Problem: https://atcoder.jp/contests/abc333/tasks/abc333_b
+
+20. Problem: https://atcoder.jp/contests/abc304/tasks/abc304_b
